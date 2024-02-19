@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Kanchan-Nazare
 - 👀 I’m interested in Data Science,Data Analytics 
-- 🌱 I’m currently learning Python, MySQL,Pandas,Numpy
-- 💞️ I’m looking to collaborate on Data science 
+- 🌱 I’m currently learning ML, DL, LLM , Numpy
+- 💞️ I’m looking to collaborate on Data science
+- 💼 My proficiency lies in SQL | EXCEL | PYTHON | PANDAS
+- 💻 I'm a fervent advocate for data-driven decision-making and I'm always ready to craft impactful data visualizations.
 - 📫 How to reach me through my email 
 - 😄 Pronouns: Hey Coder..
 - ⚡ Fun fact: 
