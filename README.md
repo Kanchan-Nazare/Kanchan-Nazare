@@ -1,1 +1,2 @@
-Here,In checking for the correct Email Id Syntax using the  RegEX Module checking for the length,special character validation along with its position using Python Language
+Passionate Data Science Learner | Python | Pandas | Machine Learning | Flask
+Driven by an insatiable curiosity for data and its transformative potential, I am currently immersed in the dynamic world of Data Science. My journey began with a deep dive into Python, mastering libraries like Pandas for efficient data manipulation. With a thirst for knowledge, I quickly delved into the realm of Machine Learning, exploring algorithms like Random Forest and Decision Trees to uncover patterns and insights within complex datasets.
